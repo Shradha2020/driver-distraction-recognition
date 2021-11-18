@@ -30,7 +30,7 @@ Vanilla CNN
 
 Traditional Machine Learning Models  - SVM , KNNs
 
-# Evaluatio and Results
+# Evaluation and Results
 
 ![image](https://user-images.githubusercontent.com/71346494/142355362-60db877b-b9ca-45d1-bcdd-534c2f63e4d8.png)
 
