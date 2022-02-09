@@ -6,7 +6,7 @@ Design a computer vision system that can detect and alarm the distracted drivers
 Distracted Drivers are one of the major reasons for accidents all over the world. In the United States of America alone, 2841 deaths and 4,00,000 injuries were recorded in 2018. Motivated to reduce the number, this project aims at automatically detecting specific actions of the drivers like cell phone usage, operating the radio, etc. which results in distracted driving. The images of the driver from the dashboard camera can be utilized to recognize if the driver is distracted. This information integrated with software systems of vehicles, can alert the drivers. With the help of Machine Learning (ML) and Deep Learning, the images have been classified to detect if the drivers are safely driving or are distracted
 
 # Dataset
-Source - Kaggle
+Source-Kaggle
 
 State Farm Distracted Driver Dataset
 https://www.kaggle.com/c/state-farm-distracted-driver-detection
